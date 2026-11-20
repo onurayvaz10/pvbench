@@ -1,0 +1,26 @@
+{
+  "title": "PVBench: code and verification notebook for a multi-site benchmark of deep learning models for photovoltaic power forecasting (25 plants)",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "Code of a benchmark of eleven neural network architectures and six reference methods for hour-ahead and day-ahead photovoltaic power forecasting at 25 plants in 12 countries: data retrieval, preprocessing, information sets, models, training, evaluation, statistical tests, result tables and figures, with a Google Colab verification notebook. The archive contains code only (MIT licence). It contains no data: the PVOutput and company records were obtained for non-commercial academic use only and are not redistributed; the retrieval scripts download the records from PVOutput, EPİAŞ and Open-Meteo.",
+  "creators": [
+    {
+      "name": "Ayvaz, Onur",
+      "affiliation": "Department of Electrical and Electronics Engineering, Faculty of Engineering, Giresun University, Giresun, Türkiye",
+      "orcid": "0009-0000-9522-7790"
+    },
+    {
+      "name": "Tomak, Özgür",
+      "affiliation": "Department of Computer Engineering, Faculty of Engineering, Giresun University, Giresun, Türkiye",
+      "orcid": "0000-0003-2993-6913"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "photovoltaic power forecasting",
+    "deep learning",
+    "benchmark",
+    "numerical weather prediction",
+    "reproducibility"
+  ]
+}
